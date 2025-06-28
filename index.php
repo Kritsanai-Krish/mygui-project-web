@@ -1,3 +1,4 @@
+<?php require_once __DIR__."/core/functions.php"; requireLicense(); ?>
 <!DOCTYPE html>
 <html lang="th">
 <head>
